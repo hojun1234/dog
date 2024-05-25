@@ -1,0 +1,19 @@
+.contact-info {
+  text-align: center;
+  background-color: white;
+  color: #563008;
+  padding: 60px; /* 내용 주위에 여백 추가 */
+}
+
+.contact-info p2 {
+  margin-left: 80px;
+}
+.contact-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.contact-details p {
+  margin-right: 20px;
+}

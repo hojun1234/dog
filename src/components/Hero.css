@@ -1,0 +1,19 @@
+.hero {
+    background-color: #563008;
+    color: #F0AB0F;
+    padding: 50px ;
+    text-align: center;
+    font-size: 2em;
+}
+
+.hero-image {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.hero-logo {
+    
+    
+    width: 300px; 
+    height: auto;
+  }

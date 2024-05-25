@@ -1,0 +1,46 @@
+header {
+  background-color: #fff;
+  border-bottom: 1px solid #ccc;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+}
+
+.logo {
+  height: 50px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 20px;
+}
+
+nav ul li {
+  display: inline;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+nav ul li a.login {
+  color: #ff9900;
+}
+
+.logo-link {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  margin: -10px;
+}

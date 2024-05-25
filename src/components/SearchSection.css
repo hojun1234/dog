@@ -1,0 +1,21 @@
+.search-section {
+  padding: 50px ;
+  text-align: center;
+  color: #fff;
+  background-color: #563008;
+}
+
+.search-box {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.search-item {
+  background-color: #8b4513;
+  color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+}
